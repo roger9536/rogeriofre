@@ -1,0 +1,403 @@
+
+
+#EXTM3U
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,All Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1077129434.m3u8
+#EXTINF:-1,Combate Global
+https://stream.ads.ottera.tv/cl/240108cme14km9ldp5ga3slshg/1280x720_1400000_1_f.m3u8?i=475_960
+#EXTINF:-1,Real Madrid TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1,SBT Brasília
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:1,Canela Deportes
+https://stream.ads.ottera.tv/cl/240108cme184t21ang6ejf1o00/1920x1080_5826735_4_f.m3u8?i=475_2013
+#EXTINF:1,LaLiga+ Ao Vivo
+https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_1.m3u8
+#EXTINF:1,Tv Luzilândia
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1849683402.m3u8
+#EXTINF:1,RS News Sports 4	
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/chunklist_w1809431053.m3u8
+#EXTINF:1,Bem TV
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1635836736.m3u8
+#EXTINF:1,Canal do Inter		
+https://video01.soultv.com.br/internacional/internacional/chunklist_w1444015839.m3u8 
+#EXTINF:1,Urban Sports 
+https://stream.uniquetv.com.br/uniquetvsports/tracks-v1a1/mono.m3u8
+#EXTINF:1,RS NEWS
+https://59f1cbe63db89.streamlock.net:1443/rsnewsppw/_definst_/rsnewsppw/chunklist_w1664297482.m3u
+#EXTINF:1,PonTV 
+https://video01.soultv.com.br/pontepreta/pontepreta/chunklist_w1924256968.m3u8
+#EXTINF:1,MASL Ao Vivo		
+https://stream.ads.ottera.tv/cl/240108cme1f4o3veclfm0vcb7g/1920x1080_5931200_4_f.m3u8?i=475_4060
+#EXTINF:1,Tv Nova Play	
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w604330975.m3u8
+#EXTINF:1,Web Tv Cine Ao Vivo	
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w296950704.m3u8
+#EXTINF:1,Bons Tempos
+https://stmv1.srvif.com/canal29/canal29/chunklist_w911819892.m3u8
+#EXTINF:1,CinePIX TV
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w834394086.m3u8
+#EXTINF:1,Rede Clouding TV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1173018667.m3u8
+#EXTINF:1,Tv Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1671879851.m3u8
+#EXTINF:1,TVI Ficção 
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=754290714
+#EXTINF:1,Runtime Ação	
+https://stream.ads.ottera.tv/cl/240108cme1lvovsaaqf06uk1o0/1280x720_3071200_0_f.m3u8?i=728_2552
+#EXTINF:1,Moviesphere Brasil	
+https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb563b196577619098cd2167d1f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bad6852db80148b6f4adafb8c2360625f5c98435ee3b24aabf6e15a428969a1ac4d1d967a58e683179cc915bcd6d54697418f22f917cbc7f18b8116e037a0598c6f4fcee339521ce3e249a78b3586d5887d2c9b7024346f3f8486a68e82b81b25393addead9b075fa69bfe19b52a756c96ab95d833f8468a305afe40cd1c5090d85204bc6940a1b4181f3a583e93a79d70c93f6bc8d2631c9a6452a04a13fa9e70518e3fc2830a4ba3ffad46862c228bd72adb4508992a286a09c84599e2ac4fd39f9574d636c1e0b8a51a3d53895799d309fc71d25535a57edb46184d7891060390fb18950824740f9c3ddd7964e1ada70175fdf65db700c7883613f2bab7eafda7447a11227a9797df7513e8502dbbd2ffea892a52533a7d1ca47b03ebde54482b852e73d7c6a03b5f33e560a192e87a0355b420ca92fd3dac4e5781e13aca69d8ca77d0c4768471c5cf1a18d16bc81cf2e1113bb230568661f1a93449b29e809470421de0d91cb2d71960d3522f6ad5c0c0b3f8ea9603f6875247df7024ca77396444b6eef/113/1920x1080_4715744/index.m3u8
+#EXTINF:1,Tv Carioca Internacional
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w219401094.m3u8
+#EXTINF:1,Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w761446291.m3u8
+#EXTINF:1,X PLUS TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w610763616.m3u8
+#EXTINF:1,Classique TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1892807511.m3u8
+#EXTINF:1,CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/chunklist_w838245831.m3u8
+#EXTINF:1,Runtime Ao Vivo
+https://stream.ads.ottera.tv/cl/240108cme1v37i6rmjjv3lltsg/1280x720_3071200_0_f.m3u8?i=728_2153
+#EXTINF:1,Tv J.SID 
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1251718765.m3u8
+#EXTINF:1,Gringo		
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+#EXTINF:1,Sony One Emoções
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/568d7ff4-8d72-4a02-8977-59622435afbb/2.m3u8
+#EXTINF:1,Tv Cidade Alagoinha	
+https://video04.logicahost.com.br/tvcidade/tvcidade/chunklist_w404789888.m3u8
+#EXTINF:1,Runtime Crime	
+https://stream.ads.ottera.tv/cl/240108cme22m9ji28qedsooum0/1280x720_3071200_0_f.m3u8?i=728_4864
+#EXTINF:1,Qtal Channel
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w1176705841.m3u8
+#EXTINF:1,MyTime Movie Network	
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:1,1BLITS TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w1418511321.m3u8
+#EXTINF:1,Runtime Família
+https://stream.ads.ottera.tv/cl/240108cme25pkq67uu22mmcg50/1280x720_3071200_0_f.m3u8?i=728_5589
+#EXTINF:1,Canela Cinema 	
+https://ov.ottera.tv/channels/cnm_cn_mv/master2300000.m3u8;session=cnm_cn_mv
+#EXTINF:1,Runtime Español - Cine Y Series	
+https://stream.ads.ottera.tv/cl/240108cme294ov7e995nrbqjjg/1280x720_3071200_0_f.m3u8?i=728_2152
+#EXTINF:1,Fiestas en Familia	
+https://stream.ads.ottera.tv/cl/240108cme29t375fkj0ucc29g0/1280x720_1400000_1_f.m3u8?i=475_6292
+#EXTINF:1,Rede QDM Ao Vivo
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w638205499.m3u8
+#EXTINF:1,Top Cine 2	
+https://topcineus-freetv.amagi.tv/TopCine-roku/master_6.m3u8
+#EXTINF:1,Cine Real Ao Viv0
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+#EXTINF:1,Top Tv Ao Vivo	
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:1,Rede Mundo TV	
+https://st-srv02.alfamax.com.br/REDE_MUNDO_2/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:1,Kpop TV Play	
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8?nimblesessionid=62650251
+#EXTINF:1,Rádio Tv Ximenes Fm 
+https://stmv2.samcast.com.br/radiotvximenesfm/radiotvximenesfm/chunklist_w1545221730.m3u8
+#EXTINF:1,m2o Ao Vivo	
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3261141.m3u8
+#EXTINF:1,ROCK TV Ao Vivo	
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:1,Deluxe Music Tv	
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/659b66678bc82_13018905_2401080305_720p.m3u8
+#EXTINF:1,TV 538 Ao Vivo	
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8	
+#EXTINF:1,MPB Channel Ao Vivo	
+https://stmv1.srvif.com/mpbtv/mpbtv/chunklist_w55479443.m3u8
+#EXTINF:1,Trace Urban
+https://tvup-fast-amagi-trace-urban.secure2.footprint.net/playlist1080p.m3u8
+#EXTINF:1,Radio Capital TiVù Ao Vivo	
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
+#EXTINF:1,Muzangala TV Ao Vivo
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1457206172.m3u8
+#EXTINF:1,NOW 70's Ao Vivo
+https://lightning-now70s-samsungnz.amagi.tv/playlist480p.m3u8
+#EXTINF:1,Sol Música Ao Vivo
+https://stream.ads.ottera.tv/cl/240108cme2t20v7e995nrc04b0/1280x720_3071200_0_f.m3u8?i=475_5760
+#EXTINF:1,RTL Classics Ao Vivo
+https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/chunklist_w28704179.m3u8
+#EXTINF:1,Rádio Itália TV Ao Vivo	
+https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:1,Top Latino TV Ao Vivo
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1700580848.m3u8
+#EXTINF:1,Number 1 TV	
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8?md5=-UjDc6iEpWe2pUjwHmnvlQ&expires=1632427615
+#EXTINF:1,Tv Central do Brasil 
+https://stmv2.centralcast.com.br/central/central/chunklist_w1170009351.m3u8
+#EXTINF:1,Trace Latina Ao Vivo
+https://tvup-fast-amagi-trace-latina.secure2.footprint.net/playlist1080P.m3u8
+#EXTINF:1,Tv Café Ao Vivo 	
+https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w728165439.m3u8
+#EXTINF:1,Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
+#EXTINF:1,KISS TV Romania	
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF:1,Italianissimo TV Ao Vivo
+https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w847716016.m3u8
+#EXTINF:1,Goiânia - Av. Jamel Cecílio Ao Vivo
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1757779024.m3u8
+#EXTINF:1,Gramado Ao Vivo	
+https://inst-ujkau-srs-sd.camerite.services/s3/hls/59abcc30-f8cf-11e8-9c9f-e57dd102918e/59abcc30-f8cf-11e8-9c9f-e57dd102918e.m3u8?hls_ctx=l50x9805
+#EXTINF:1,Cascavel Panorâmica Ao
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+#EXTINF:1,Foz do Iguaçu	
+https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w1095001021.m3u8
+#EXTINF:1,Umuarama - Praça Miguel Rossafa Ao Vivo
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w1367055577.m3u8
+#EXTINF:1,Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+#EXTINF:1,Cascavel Panorâmica 
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+#EXTINF:1,Rio de Janeiro
+https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w1923389872.m3u8?t=v81YHtRnSLjCYkjUlJVO62rT%2BFhYTirxrXIvZJ9Is7y0qePLH1EFLtMNipgahCuK&cid=
+#EXTINF:1,Beach Bar St. John Webcam	
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704758461/ei/XTicZavsDvGfmLAP5_mtqAw/ip/77.54.27.119/id/2wqpy036z24.3/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-8vq54vox2u-v2vs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/910000/mh/-f/mm/44/mn/sn-8vq54vox2u-v2vs/ms/lva/mv/m/mvi/3/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1704736605/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAJA0RTCiIu7sRPGVML6EiU9zPkFyFUcad_iwDkWkowBjAiBRSj0ZZ92xXvhkJpEoQCRq_gs8TIChW9dNORwxQWMmbw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhAOSKPR40prIh_EFGjSMIOb2G6VGk-gAXfhQSuOfGCQjtAiATpGiHPLBGD9K-7AiKWjyj3xO4pJFJsWaAw2MSztr9IA%3D%3D/playlist/index.m3u8
+#EXTINF:1,Sport TV 1 PT
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:1,HBO 2 
+https://tvembed.net/hbo2/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=cac429677a8e700c77a0d4130f6377f10296d9b6-c3e0c5aa8d795ea791075bdf820abf11-1704744183-1704736983
+#EXTINF:1,Benfica TV	
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:1,Sport TV 2 PT
+https://tvembed.net/spt2/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=fd18887ebcc6974114396652b49348478131601a-330be2d254b00e788528c2ef2e5626da-1704744435-1704737235
+#EXTINF:1,Sport TV 3 PT	
+https://tvembed.net/spt3/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=f93588cdb76b805d08f88fd7fb0a8e8ef5ac0a81-21aec6fc6eda41cbffad96e7bb17550c-1704744523-1704737323
+#EXTINF:1,Sport TV PT
+https://tvembed.net/spt3/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=f93588cdb76b805d08f88fd7fb0a8e8ef5ac0a81-21aec6fc6eda41cbffad96e7bb17550c-1704744523-1704737323
+#EXTINF:1,Eleven Sports	
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:1,Eleven Sports 	
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:1,Eleven Sports 
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:1,Assistir RedeTV	
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w1181596646.m3u8
+#EXTINF:1,Assistir Band ao vivo	
+https://s.m3u9.top/a2/hls1/band/__index.m3u8?mu3zAQc9HC3GbwJq=y5LcjtJMWKjLqMUfEK7tVw&3U1G7qaTxrPbalZnEx=1704767521
+#EXTINF:1,Paramount Channel
+https://s.m3u9.top/a2/hls1/paramount/__index.m3u8?mu3zAQc9HC3GbwJq=0GswNZFsUNv0LkyjHtnF8Q&3U1G7qaTxrPbalZnEx=1704767676
+#EXTINF:1,ESPN Extra
+https://s.m3u9.top/a2/hls1/espnextra/__index.m3u8?mu3zAQc9HC3GbwJq=VRqjkVjIUgjh6xQvqq_NCw&3U1G7qaTxrPbalZnEx=1704767940
+#EXTINF:1,Sony	
+https://s.m3u9.top/a2/hls1/sony/__index.m3u8?mu3zAQc9HC3GbwJq=MTDbXxTD6_VhILaRW71tzw&3U1G7qaTxrPbalZnEx=1704768027
+#EXTINF:1,AWTV	
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+#EXTINF:1,CINE LIVRE 2	
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1625156137.m3u8
+#EXTINF:1,PACE	
+https://s.m3u9.top/a2/hls1/space/__index.m3u8?mu3zAQc9HC3GbwJq=8qy1yJPpC7yPmNWlCmETMw&3U1G7qaTxrPbalZnEx=1704768317
+#EXTINF:1,Canal 29	
+https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
+#EXTINF:1,FilmRise Action	
+https://i.mjh.nz/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-ams-aws/e24bfd23-79a6-456c-a6f4-878581958380/5.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
